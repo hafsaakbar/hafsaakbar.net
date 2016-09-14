@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   As the name of my blog suggests, I am Hafsa; your average teenage girl writing with an over-worked glitter pen feathered at the top.
   The words then strewn and the 'i'-s then dotted with sparkly hearts are what render the articles I post on this blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hafsaakbar.com/" # the base hostname & protocol for your site
+url: "http://hafsaakbar.net/" # the base hostname & protocol for your site
 twitter_username: hafsaakbar05
 github_username:  hafsaakbar
 
